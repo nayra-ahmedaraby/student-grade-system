@@ -1,0 +1,202 @@
+[
+    {
+        "name": "mahmoud ahmed",
+        "id": "240108899",
+        "courses": {
+            "cad": {
+                "grade": null,
+                "credit_hours": 3
+            },
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "menna nagy",
+        "id": "240106655",
+        "courses": {
+            "cad": {
+                "grade": null,
+                "credit_hours": 3
+            },
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "yara elsayad",
+        "id": "240102332",
+        "courses": {
+            "cad": {
+                "grade": null,
+                "credit_hours": 3
+            },
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "nayra ahmed",
+        "id": "240103182",
+        "courses": {
+            "cad": {
+                "grade": 95.0,
+                "credit_hours": 3
+            },
+            "law": {
+                "grade": 94.0,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": 95.0,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": 85.0,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": 87.0,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "yasin ahmed",
+        "id": "240101812",
+        "courses": {
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "somia ahmed",
+        "id": "240102106",
+        "courses": {
+            "cad": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "omar tamer",
+        "id": "240102706",
+        "courses": {
+            "cad": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    },
+    {
+        "name": "maryam",
+        "id": "234567890",
+        "courses": {
+            "law": {
+                "grade": null,
+                "credit_hours": 2
+            },
+            "python": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "maths": {
+                "grade": null,
+                "credit_hours": 4
+            },
+            "eng": {
+                "grade": null,
+                "credit_hours": 2
+            }
+        }
+    }
+]
